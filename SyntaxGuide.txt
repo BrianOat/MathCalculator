@@ -1,4 +1,4 @@
-Writing Polynomials:
+    Writing Polynomials:
     x to any power is written as:
     x^2, x^3, x^5, etc
 
