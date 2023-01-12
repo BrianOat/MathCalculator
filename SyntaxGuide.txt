@@ -1,0 +1,24 @@
+Writing Polynomials:
+    x to any power is written as:
+    x^2, x^3, x^5, etc
+
+    For coefficients simply add the coefficient to the front:
+    3x^2, 5x^3, 100x^5, -5x^6, etc
+
+    To write a longer equation, simply write the operation that combines them
+    Ie: + for addition, - for subtraction, * for multiplication, / for division
+    !Make Sure to add a space between separate terms, or else the calculator will treat it all as part
+    !of the exponent.
+    3x^3 + 5x + 3 --> separated terms, 3x^3+5x+3 --> all apart of the exponent
+
+    Regarding division and multiplication:
+    Since all operations and its terms are spaced out, for division there will always be only two terms
+    written as: num / denominator.
+    For example: 1 / x^2, 1 is num, x^2 is denominator. 1 / x^2*3, 1 is num, x^2*3 is denominator.
+    However: 1 / x^2 * 3 is different, 3 is a different term now and is being multiplied by that entire fraction.
+
+    Trigonometric functions written as: sin(x), cos(x), csc(x), sec(x), cot(x), and tan(x)
+
+    For Fractions with multiple terms will be written as: {numeratorFunction//denominatorFunction}
+    !For trig fractions keep it in this form as well
+    ex) {x^2 + x^3 / x^4//x + 2}, {sin(x)//cos(x)}
